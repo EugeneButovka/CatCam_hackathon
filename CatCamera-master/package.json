@@ -1,0 +1,28 @@
+{
+  "name": "cat-camera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "@turf/buffer": "^5.1.5",
+    "@turf/collect": "^6.0.1",
+    "express": "^4.17.1",
+    "greiner-hormann": "^1.4.1",
+    "turf": "^3.0.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Megal/CatCamera.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Megal/CatCamera/issues"
+  },
+  "homepage": "https://github.com/Megal/CatCamera#readme"
+}
